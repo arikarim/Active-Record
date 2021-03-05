@@ -10,7 +10,6 @@ This is an active record project built to reflect active record association(mode
 
 
 
-
 ### Prerequisites
 - Terminal
 - GitHub
