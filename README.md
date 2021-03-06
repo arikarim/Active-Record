@@ -11,6 +11,7 @@ This is an active record project built to reflect active record association(mode
 
 
 
+
 ### Prerequisites
 - Terminal
 - GitHub
@@ -54,6 +55,10 @@ Give a ⭐️ if you like this project!
 ## 📝 License
 
 This project is [MIT](https://choosealicense.com/licenses/mit/) licensed.
+
+
+
+
 
 
 
